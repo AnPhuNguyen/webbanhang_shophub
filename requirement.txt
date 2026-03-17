@@ -1,0 +1,8 @@
+jdbc driver for sql server:
+https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver17
+
+javax.servlet:
+https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api
+
+jstl:
+https://mvnrepository.com/artifact/jakarta.servlet.jsp.jstl/jakarta.servlet.jsp.jstl-api
